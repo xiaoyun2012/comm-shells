@@ -1,30 +1,19 @@
 🐌 useful-scripts
 ====================================
 
-<img src="docs/script-logo.png" width="20%" align="right" />
-
-[![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Join the chat at https://gitter.im/oldratlee/useful-scripts](https://badges.gitter.im/oldratlee/useful-scripts.svg)](https://gitter.im/oldratlee/useful-scripts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![GitHub release](https://img.shields.io/github/release/oldratlee/useful-scripts.svg)](https://github.com/oldratlee/useful-scripts/releases)
-[![GitHub stars](https://img.shields.io/github/stars/oldratlee/useful-scripts.svg?style=social&label=Star&)](https://github.com/oldratlee/useful-scripts/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/oldratlee/useful-scripts.svg?style=social&label=Fork&)](https://github.com/oldratlee/useful-scripts/fork)
-
 
 👉 把平时有用的手动操作做成脚本，这样可以便捷的使用。 ✨
 
-有自己用的好的脚本 或是 平时常用但没有写成脚本的功能，欢迎提供（[提交Issue](https://github.com/oldratlee/useful-scripts/issues))和分享（[Fork后提交代码](https://github.com/oldratlee/useful-scripts/fork)）！ 💖
+有自己用的好的脚本 或是 平时常用但没有写成脚本的功能，欢迎提供（[提交Issue](https://github.com/xiaoyun2012/comm-shells/issues))和分享（[Fork后提交代码](https://github.com/oldratlee/useful-scripts/fork)）！ 💖
 
 PS：
 
 本仓库的脚本（如`Java`相关脚本）在阿里等公司（如随身云，见[`awesome-scripts`仓库](https://github.com/Suishenyun/awesome-scripts)说明）的线上生产环境部署使用。  
-如果你的公司有部署使用，欢迎使用通过[提交Issue](https://github.com/oldratlee/useful-scripts/issues)告知，方便互相交流反馈～ 💘
+如果你的公司有部署使用，欢迎使用通过[提交Issue](https://github.com/xiaoyun2012/comm-shells/issues)告知，方便互相交流反馈～ 💘
 
 🔰 快速下载&使用
 ----------------------
 
-```bash
-source <(curl -fsSL https://raw.githubusercontent.com/oldratlee/useful-scripts/release-2.x/test-cases/self-installer.sh)
-```
 
 更多下载&使用方式，参见[下载使用](docs/install.md)。
 
